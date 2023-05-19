@@ -12,3 +12,23 @@ Em seguida, no Pentaho Report Designer, você pode criar um novo relatório e im
 Após a criação do relatório no Pentaho Report Designer, você pode gerar a saída final em vários formatos, como PDF, HTML ou Excel, e distribuí-lo conforme necessário.
 
 Essa combinação do Dbeaver e do Pentaho Report Designer oferece uma solução poderosa para gerar relatórios sofisticados com dados do banco de dados MySQL. Os recursos avançados e a flexibilidade dessas ferramentas permitem criar relatórios personalizados que atendam às suas necessidades específicas de análise e apresentação de dados.
+
+
+
+Dbeaver usando o Mysql:
+
+
+![image](https://github.com/Pantercode/PentahoReportDesign/assets/93291880/e39f72a0-a916-444b-b301-727839d63f8f)
+
+Pentaho Report Design:
+
+![image](https://github.com/Pantercode/PentahoReportDesign/assets/93291880/7db098ec-6863-4508-9abd-3b6c6fae34a6)
+
+
+
+
+
+
+
+
+
